@@ -47,7 +47,7 @@ flowchart TD
 
 ## Quick start
 
-The repository currently contains the project documentation and illustrative preview. Add the Streamlit application file (`app.py`) and dependency file (`requirements.txt`) to run the interactive prototype.
+The repository includes a Streamlit application, dependency file, and a synthetic sample RFP. The current implementation runs locally and does not require an external API key.
 
 Once those files are present:
 
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Intended application flow
+## Sample data\n\nA synthetic RFP is available at [examples/sample_rfp.txt](examples/sample_rfp.txt). Copy its contents into the application to try the workflow. Do not use confidential customer documents unless your environment is approved for that data.\n\n## Intended application flow
 
 1. Paste the RFP content into the workspace.
 2. Extract requirement-like statements for review.
