@@ -1,0 +1,18 @@
+REQUEST FOR PROPOSAL: CUSTOMER OPERATIONS PLATFORM
+
+1. The supplier must provide a secure web application for customer operations teams.
+2. The solution shall support role-based access control for administrators, managers, and agents.
+3. The platform must integrate with existing REST APIs and support secure data exchange.
+4. The service must maintain 99.9% monthly availability and provide incident notifications.
+5. The supplier should provide functional testing, regression testing, and release validation documentation.
+6. The implementation team must provide a delivery plan with milestones, dependencies, and named owners.
+7. Customer data must be encrypted at rest and in transit.
+8. The supplier shall provide ongoing technical support, issue triage, and maintenance.
+9. The supplier must demonstrate compliance with the customer's data residency requirements.
+10. The solution should provide audit logs for administrative actions and changes to customer records.
+
+Evaluation notes:
+- Provide a written response for each numbered requirement.
+- Reference supporting evidence where available.
+- Identify any requirement that cannot currently be met.
+- Do not make unsupported claims about certifications, service levels, or customer references.
